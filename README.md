@@ -25,7 +25,7 @@ i : Displays no. of files inside the File
 
 To Display this on the Terminal type : ```./first.sh help```
 
-To run this script globally: Copy the script in ```usr/local/bin``` or the folder where all your binaries are stored and navigate to that directory.
+To run this script globally: Copy the script in ```usr/local/bin``` (```~/../../usr/local/bin```) or the folder where all your binaries are stored and navigate to that directory.
 
 Then run the following commands:
 1. ```mv first.sh first```
