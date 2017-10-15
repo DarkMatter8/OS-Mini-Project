@@ -8,7 +8,7 @@ Clone the Repo using command : ```git clone https://github.com/DarkMatter8/OS-Mi
 Format to use : ```./first.sh <YOUR FILE NAME> <INFO TYPE>```
 
 Info Type :
-size : Displays the size of the file
+size : Displays the size of the file </b>
 date : Displays date and time of creation
 type : Displays Type of File
 perm : Displays Permissions for the File
