@@ -14,8 +14,11 @@ size : Displays the size of the file
 date : Displays date and time of creation
 
 type : Displays Type of File
+
 perm : Displays Permissions for the File
+
 own : Displays Owner of the File
+
 i : Displays no. of files inside the File
 
 To Display this on the Terminal type : ```./first.sh help```
